@@ -6,10 +6,9 @@
 
 ## 使用
 1. 复制本项目短网址URL：`https://raw.githubusercontent.com/tiancool/surgehost/master/result.conf`，
-2. 长按`link`选择拷贝（推荐 Coding 速度更快）
-3. 打开 Surge，点击右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL
-4. 粘贴
-5. 点击`OK`后，保存！启用当前规则，Enjoy it！
+2. 打开 Surge，点击右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL
+3. 粘贴
+4. 点击`OK`后，保存！启用当前规则，Enjoy it！
 
 ## 优点
 
@@ -27,6 +26,6 @@
 
 ## 来源
 
-数据来自 [cnAnonymous/hosts](https://github.com/cnAnonymous/hosts)、[racaljk/hosts](https://github.com/racaljk/hosts) 等 ，再次向维护 Hosts 列表的人表示感谢！
+数据来自 [racaljk/hosts](https://github.com/racaljk/hosts) 等 ，再次向维护 Hosts 列表的人表示感谢！
 
 

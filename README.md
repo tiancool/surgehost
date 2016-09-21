@@ -6,9 +6,8 @@
 
 ## 使用
 1. 复制本项目短网址URL：`https://raw.githubusercontent.com/tiancool/surgehost/master/result.conf`，
-2. 打开 Surge，点击右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL
-3. 粘贴
-4. 点击`OK`后，保存！启用当前规则，Enjoy it！
+2. 打开 Surge，点击右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL粘贴
+3. 点击`OK`后，保存！启用当前规则，Enjoy it！
 
 ## 优点
 
